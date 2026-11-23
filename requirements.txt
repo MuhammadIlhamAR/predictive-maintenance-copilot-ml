@@ -1,0 +1,13 @@
+pandas
+numpy
+polars
+scikit-learn
+xgboost
+lifelines
+tensorflow
+joblib
+fastapi
+uvicorn
+matplotlib
+seaborn
+gdown
