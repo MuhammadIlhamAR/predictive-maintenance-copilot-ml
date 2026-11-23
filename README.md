@@ -8,7 +8,7 @@ Proyek capstone kelompok **ASAH Machine Learning Track (Dicoding Indonesia x Acc
 
 [Microsoft Azure Predictive Maintenance](https://www.kaggle.com/datasets/arnabbiswas1/microsoft-azure-predictive-maintenance) (Kaggle): telemetry per jam (`volt`, `rotate`, `pressure`, `vibration`), catatan error, maintenance, dan failure dari 100 mesin sepanjang 2015.
 
-Tabel telemetry, error, maintenance, dan failure digabung menjadi satu `datasets.csv` (±876 ribu baris, ±113 MB). File ini **tidak disertakan** karena melebihi batas ukuran file GitHub. Langkah penggabungannya ada di bagian *Data Preparation* pada notebook.
+Tabel telemetry, error, maintenance, dan failure digabung menjadi satu `datasets.csv` (±877 ribu baris, ±113 MB). File ini **tidak disertakan** karena melebihi batas ukuran file GitHub. Langkah penggabungannya ada di bagian *Data Preparation* pada notebook.
 
 ## Pipeline
 
